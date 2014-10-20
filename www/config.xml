@@ -4,10 +4,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.kleynodsoft.testapp"
-        version   = "0.1.0">
+        version   = "0.0.1">
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>010</string>
+        <string>001</string>
     </gap:config-file>
 
     <name>Hello Lviv</name>
@@ -24,9 +24,9 @@
     <preference name="permissions"                value="none"/>
 
     <!-- Customize your app and platform with the preference element. -->
-    <preference name="phonegap-version"           value="3.4.0" />          <!-- all: current version of PhoneGap -->
+    <preference name="phonegap-version"           value="3.3.0" />          <!-- all: current version of PhoneGap -->
     <preference name="orientation"                value="default" />        <!-- all: default means both landscape and portrait are enabled -->
-    <preference name="target-device"              value="handset" />        <!-- all: possible values handset, tablet, or universal -->
+    <preference name="target-device"              value="universal" />        <!-- all: possible values handset, tablet, or universal -->
     <preference name="fullscreen"                 value="true" />           <!-- all: hides the status bar at the top of the screen -->
     <preference name="webviewbounce"              value="true" />           <!-- ios: control whether the screen 'bounces' when scrolled beyond the top -->
     <preference name="prerendered-icon"           value="true" />           <!-- ios: if icon is prerendered, iOS will not apply it's gloss to the app's icon on the user's home screen -->
