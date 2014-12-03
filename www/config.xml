@@ -10,10 +10,10 @@
         <string>010</string>
     </gap:config-file>
 
-    <name>Мій Львів</name>
+    <name>111</name>
 
     <description>
-        Мій Львів
+        222
     </description>
 
     <!--gap:plugin name="com.phonegap.plugin.statusbar"        version="1.1.0" />
