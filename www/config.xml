@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.kleynodsoft.testapp"
-        version   = "0.0.1">
+        id        = "com.kleynodsoft.mylvivua"
+        version   = "0.1.0">
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>001</string>
+        <string>010</string>
     </gap:config-file>
 
-    <name>Hello Lviv</name>
+    <name>Мій Львів</name>
 
     <description>
-        Hello Lviv
+        Мій Львів
     </description>
 
     <!--
